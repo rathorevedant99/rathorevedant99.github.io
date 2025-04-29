@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Home"
+permalink: /
 ---
 ## Data Science Manager
 Data Science Manager in the CPG Industry, with extensive experience working in the Supply Chain Analytics. Currently primarily working on Demand Forecasting, I am an automation enthusiast and take pride in creating long-term generalized Data Science solutions.
