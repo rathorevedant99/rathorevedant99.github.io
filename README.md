@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Data Science Manager
 Data Science Manager in the CPG Industry, with extensive experience working in the Supply Chain Analytics. Currently primarily working on Demand Forecasting, I am an automation enthusiast and take pride in creating long-term generalized Data Science solutions.
 
@@ -6,8 +9,11 @@ Experienced in Direct-2-Consumer business, with understanding and working in Mar
 I am a Math Nerd and Tech Fanatic, always seeking to stay up to date with the latest technological advancements and applying them to my work. My skills in data analysis and problem-solving have helped me achieve outstanding results in my career, and I look forward to continuing to drive success for my team and company.
 
 ## Education
-- July 2017 - Aug 2020: B.Sc. (Hons) Physics, University of Delhi, India 
-- Sept 2024 - Aug 2025: M.Sc. Machine Learning, UCL, UK
+| Duration            | Degree                   | Institution          | Location |
+|---------------------|--------------------------|----------------------|----------|
+| Sept'24 - Aug'25 | M.Sc. Machine Learning   | UCL                  | London, UK       |
+| July'17 - Aug'20 | B.Sc. (Hons) Physics     | University of Delhi  | New Delhi, India    |
+
 
 ## Work Experience
 Sept'20 - Aug'24: Data Science Manager, Marico Limited, India <br>
